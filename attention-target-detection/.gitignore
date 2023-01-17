@@ -1,0 +1,16 @@
+__pycache__
+logs
+utils/__pycache__
+utils/*.pyc
+lib/__pycache__
+lib/*.pyc
+data/gazefollow
+data/videoatttarget
+*.pt
+*.pyc
+.ipynb_checkpoints/
+*/*.jpg
+*.png
+data/demo/frames/*.jpg
+yes
+yes.pub
